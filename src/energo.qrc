@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/3c22890470da1566063eb57a9a0b0fe6.png</file>
+        <file>icons/6d1e481bdcf159961818823e652a7725.png</file>
+        <file>icons/7e9399aabb3081eaca76c7fb8830cba9.png</file>
+        <file>icons/51efe0e04f50db6a32d32eb749ebb30e.png</file>
+        <file>icons/472f63ee65c35698975526a99fbb7718.png</file>
+        <file>icons/10321fdecd9fae9b62cac2dcac6483ac.png</file>
+        <file>icons/34618d89b252e20790a8bc3812ca92d9.png</file>
+        <file>icons/ed519dacc89b2bead3f453b0b05a4a8b.png</file>
+        <file>icons/xml.png</file>
+        <file>icons/icons8-upload-document-64.png</file>
+        <file>icons/upload-database-script.png</file>
+        <file>icons/upload_xml.png</file>
+        <file>icons/xml-file-format-symbol.png</file>
+    </qresource>
+</RCC>

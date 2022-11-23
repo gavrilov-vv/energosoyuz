@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<units>
+    <unit name="UNIT1">
+        <property type="2">dgfdgfd</property>
+        <property type="3">fdgfdgfd</property>
+        <property type="5">AAAAAAAAAAA</property>
+    </unit>
+    <unit name="UNIT2">
+        <property type="1">AAAA</property>
+        <property type="2">BBB</property>
+        <property type="3">CCC</property>
+        <property type="4">RRRR</property>
+        <property type="5">UUUU</property>
+    </unit>
+    <unit name="UNIT3">
+        <property type="2">gdfsgfhgfd</property>
+    </unit>
+    <unit name="UNIT4">
+        <property type="2">wwww</property>
+        <property type="1">fffff</property>
+        <property type="1">gfdsgfd</property>
+        <property type="5">fdgsfdgf</property>
+    </unit>
+</units>
